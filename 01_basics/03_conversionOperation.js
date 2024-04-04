@@ -27,3 +27,14 @@ console.log(tempInNumber)
 // 0=> false
 // empty string => false
 // any string => true
+
+
+// *********************** Operations ********************
+
+
+
+
+
+
+
+
